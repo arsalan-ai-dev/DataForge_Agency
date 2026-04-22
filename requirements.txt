@@ -1,0 +1,4 @@
+streamlit
+qdrant-client
+groq
+python-dotenv
